@@ -1,39 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devrsi0n]]></title><description><![CDATA[软件手艺人]]></description><link>https://devrsi0n.me</link><generator>RSS for Node</generator><lastBuildDate>Fri, 22 Mar 2019 01:28:11 GMT</lastBuildDate><item><title><![CDATA[Web 开发中文字体指南]]></title><description><![CDATA[头图来自 思源宋体 作为一名前端工程师，经常在还原设计师视觉稿时忽略字体，其实选择一套精心设计过的字体能极大地提升产品的视觉感受。今天就从这个很容易被忽略的细节入手，Web 开发需要了解的字体相关知识都梳理一遍。然而不像拉丁语系翻来覆去就那么一点西文字符，常见的字体就 10…]]></description><link>https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</link><guid isPermaLink="false">https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devrsi0n]]></title><description><![CDATA[软件手艺人]]></description><link>https://devrsi0n.me</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Mar 2019 13:57:22 GMT</lastBuildDate><item><title><![CDATA[Web 开发中文字体指南]]></title><description><![CDATA[头图来自 思源宋体 作为一名前端工程师，经常在还原设计师视觉稿时忽略字体，其实选择一套精心设计过的字体能极大地提升产品的视觉感受。今天就从这个很容易被忽略的细节入手，Web 开发需要了解的字体相关知识都梳理一遍。然而不像拉丁语系翻来覆去就那么一点西文字符，常见的字体就 10…]]></description><link>https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</link><guid isPermaLink="false">https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/c25da/font.png&quot;
+    href=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/a9fb0/font.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 50.23310023310024%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABaElEQVQoz32SyY7CQAxE+/8/hTv8AUjAhSCExE7YCUvCIpSw1fCs8VxmNC1ZbttVZbvVQZ+TJInq9bparZYmk4mq1aqiKFKz2VSj0VC5XFapVFKlUlG324Wi1+ul9/v9ywLFLE1Vq9XUbrc1HA6NlGaZLpeLrter+ew7zvNc/53wfD51v991u90MjC+K3Lr9dZjs8XgIHsa9KArzNiHrrlYrxXGsTqdjfr1eq9fr2frL5dLq3MfjseWPx6PF4Ha7nWazmRaLhQ6HgwIXB0Mkich8PpfXBoOBiez3e202GxPgaUajkWGog2OYABHAdDrVdru1jggDhIw4NcTIEYNHAA/GBYkDQCexDpMCAkBMV6YDw0T9ft9qNPUB8D5AYEUCgAhABODvRiPWA5N+fsPpdLLHpxF1bw6PNw0kKNIdQ4DRfTWEvAEePMLkMTakIRpwAqoQeUsSbr4GQvw/PFiImAufz+efDfgxX+Gy5T9+OuXdAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;font&quot;
         title=&quot;&quot;
-        src=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/623ee/font.png&quot;
-        srcset=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/816c5/font.png 148w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/c766b/font.png 295w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/623ee/font.png 590w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/e5345/font.png 885w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/7a439/font.png 1180w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/c25da/font.png 1716w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/241ce/font.png&quot;
+        srcset=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/501c8/font.png 200w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/0a06f/font.png 400w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/241ce/font.png 800w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/39658/font.png 1200w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/d2fcd/font.png 1600w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/a9fb0/font.png 1716w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;头图来自&lt;a href=&quot;https://source.typekit.com/source-han-serif/cn/&quot;&gt;思源宋体&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -49,73 +44,62 @@
 &lt;h2 id=&quot;serif-vs-sans-serif&quot;&gt;&lt;a href=&quot;#serif-vs-sans-serif&quot; aria-label=&quot;serif vs sans serif permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Serif VS Sans-Serif&lt;/h2&gt;
 &lt;p&gt;在字体排印学里，衬线指的是字母结构笔画之外的装饰性笔画。有衬线的字体叫衬线体（serif），也叫“白体”；没有衬线的字体，则叫做无衬线体（sans-serif），相对的也叫“黑体”。维基百科这 2 张图一目了然。&lt;/p&gt;
 &lt;h3 id=&quot;西文&quot;&gt;&lt;a href=&quot;#%E8%A5%BF%E6%96%87&quot; aria-label=&quot;西文 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;西文&lt;/h3&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/0e3c2/serif-and-sans-serif.png&quot;
+    href=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/d6b00/serif-and-sans-serif.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 513px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 513px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 55.165692007797276%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACnElEQVQozz1SZ1MaURTd/+qXGCd+iBP/gvgxKqARcAYRMBYSC71YEoqAhV6MCizCsssuiAKW5OS+N5O8mTev3nPvOecKNbENSe5BVh+gqAMo2gAdpQ9233sYIF8oQe318QdArS4iHDlGLl/AcPSM0fgFXp8fxVIFbDyNxhAUAkqlr+ALhOHxBXHo8SMaS0LrP0HpqpiZmcFVJkuBPpjNFiyvrODD9DRcrm8wLq/g/OISsXgC+wcHuP51A0Hu9ukyC38wwicDjsVTlO0VPso+p9Nhbk6HjwT8aXYWS3o9JiYmYHc48X5qiqorw2Q2w2AwolypQmi2FXSJJqtI6w+hPQz5WVJ6qFSv8fzyisurDELhMK80lT7na+IsiXpDROToGIVi6f9ZuCfAdkcFq/TfbHc0iC0ZbyRcqVzhoGxIHRnp8wvc1eoU3MRvemd65gtF/j4aP0PoUCW3NREbdidsG05Y1+1E45pX+fg05HSj0RjOkik4nZvQ6w0wWywwGI3Q6eYRT5xBbN7j9MdPNMQmBEnW0JK6yOSKyObLNEv0QeISsMzHJyewWtexajLhy6oJDgLd3tnFLplisayR6xGund3hQKstQWhQcJPoMWBGndFlMrA7RdXwRrxUrcf3qqJCFO8xeCS96Y6Nu3oDImnXpfc+tZkQS6RhWbNi3eag7FvY/LrD925vgAfsulyQpA7GpGOO9LOYzAiQ++FgiJvh9vrQIUM0AmRtJtSpgZOpS+wdePB9340d1x7pdYFao0XVytQ289jc2iaN7VikljEYl/F5YQELi0t4NzlJGiag0D+bbYObJTCaleotiRpDMHREbXCKcvUGMpnSJg1VopT1euE+dCPh8SJClcXIiDg1cyabQygU5qs/EECbmPwF/ybr6L/GwbsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;serif and sans serif&quot;
         title=&quot;&quot;
-        src=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/0e3c2/serif-and-sans-serif.png&quot;
-        srcset=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/344b8/serif-and-sans-serif.png 148w,
-/static/2d659bdb967fcfff796a9c4fd9c608d4/52f2b/serif-and-sans-serif.png 295w,
-/static/2d659bdb967fcfff796a9c4fd9c608d4/0e3c2/serif-and-sans-serif.png 513w&quot;
+        src=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/d6b00/serif-and-sans-serif.png&quot;
+        srcset=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/439d4/serif-and-sans-serif.png 200w,
+/static/2d659bdb967fcfff796a9c4fd9c608d4/96805/serif-and-sans-serif.png 400w,
+/static/2d659bdb967fcfff796a9c4fd9c608d4/d6b00/serif-and-sans-serif.png 513w&quot;
         sizes=&quot;(max-width: 513px) 100vw, 513px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;中文&quot;&gt;&lt;a href=&quot;#%E4%B8%AD%E6%96%87&quot; aria-label=&quot;中文 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;中文&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/22aba87fe8f29844b682ca2035441e32/dce3f/serif-and-sans-serif-2.png&quot;
+    href=&quot;/static/22aba87fe8f29844b682ca2035441e32/1d67c/serif-and-sans-serif-2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 348px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 348px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 134.48275862068965%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAYAAAB836/YAAAACXBIWXMAABYlAAAWJQFJUiTwAAAFdElEQVRIx11VaVNTWRB9P8z5Hc6XsZyv4lKOKDolVmmVOmOJyyBKIIBBg+wBMex7WAWBAGFLWAPZNyAkJIhn+jRkypquevXue/fevt2nT59r7PqC2Nz2YntnF949PzY2t7HtWkYkloAvENRv765P51bd61hedSO+f4g1zwZmnQtYXfNgcWkFzvlF7PmDMHyBEPz+AL7NzKChsRE+nx9eGWczWYQjUYRCYdjb29E/MIAd7y4WFhZBGxoeRl19Pe7fL4TJZEJzsw2ejU0Y4Wgch8kjjI9PwFxZiQNxEvWsI3P6AwcHh0ilj1FXV4/2jk7s7vngk8NlCuuyeXxiEg8fPkJjYxOmv80gJHuNQCiCfdnY0voZj58+RUg2RCSSzMl3xBP7iMii4jdv8OGjFX6BgA7FHxZdS+jrH8CFC7+gsPABRsfGJOUAjITgkdg/QGNTs6bTZLPhMJVG+jijG1dW12C3t2Ni8qs6YHRHMk/rkKhLS014J49XgkilM4KhADk1/U1xpPX29KKs3KwbGQ3TonOa2VyBzq4uHdtaWmCuqNTx1vYOHj95gqWVVRixxAGckv++pOdeWoZrdk4XHUtRQuGIVG9BI2IRiCEP4kMnbsGa+I8J/nwnZZ2RSKZgfvsWHZZqWAWnUlMZhlta1SmBf/X6NZptLXj9TzGq3lswOjqmc2Vl5SgouAtrzSfcKSjAzZt/wL2+AYN8q64WZxaLgF+Cj1YrKiurdBPxq6x6LwX5iOdFRUKTBnyx23WuX/B8/rwIeXlXcSs/H0+koBOTUzCSR2nFoqa2Fm1tX5QCtvMINze3JGKTUoaRsHATgimts6sbt2/f0QCI58uXr7Au6w2W3yak7OruUWrMOedh/2JX/jkcI/qflOIzLN9DQ8PqkIdwLQ9kAJbqD+iSghqx+L4uoAO7nMQNDokieZTCd6LPSLe20SSHDjscWFh0IZM9Qc4WXS509/QorXaly7T1AsGQVrNKaJGUakXm5pA5r3IsHldnPb19iMbi6pBGB4yeBWELjkixqAdGIBhWChD87s4uOCTCoHyTNrF4AvNC9nelpRiU/6Nj43o4A2dkL168xN/PnqHmU63g24SgdJ2RTB0rsYlBa1sbJoVTNKZMq62tQ4ccxErTGY0pUzgYHbFlt9COBDYVh1P54ERff7+oziw8Qljix41sS4vQyjk/rxxk1LnOmZicxLVr19H6uQ024Wr25PQs5QZRE3NFBRwjo0qHEpPpv5YqN5uVGjyILPgs1KJRnfLzb2uVrTU1uHIlDytr7rMq+wMBOCXtmLTfrDiNS1VTgiEjJFZrbo8A7tWIqDi51msSXs45naqVX6emzzBkyuTio0eia83NeCzvoHynxSELwwoXF7+BSVqNWFFkCQffbL2rV6/h4sVfYbXWgMpl+CXlGREESlG1pDYiOHoGBzU6FoFRkRYkb69Qh5HQWPWiohe4kpeHe/f+RIWIs1uuBSOdORG5Kkd9Q6MI7F+wCJajA4O6KSgOy0XKKLCUrpKSt5o+bWp6Grdu5ePy5d9x/cYNPJTM9g+SMFLHWQ3XLE4HxVGxbOo7d0jFpjNSigWjGFCycK7Yv126hMIHD7QgBXfvnskXqzwkPTojVaS55AYjhdLnlxS7Yce7h+z3U9FEh6Z6dkk50CY9TwqxYLXClDW5FY1wJCbX5J5Wj21FDTwSslNMSZXNrTMh5X9GxfuHDmbnnIhEY+owK/cP5+lDihKSqJbV2bz087TQJxKNah/PySZqomtpSe7nLVUX9jM3spBbQi8ygU4JD5XdYAS5DjmRtH6ctxZP5Tgn+T/P5cZ80xmdcj3HRlQUOxQOa0vxBD6UMj6579y//8/lxj8//wK3xjSkPRZuxgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;serif and sans serif 2&quot;
         title=&quot;&quot;
-        src=&quot;/static/22aba87fe8f29844b682ca2035441e32/dce3f/serif-and-sans-serif-2.png&quot;
-        srcset=&quot;/static/22aba87fe8f29844b682ca2035441e32/56e59/serif-and-sans-serif-2.png 148w,
-/static/22aba87fe8f29844b682ca2035441e32/56c8e/serif-and-sans-serif-2.png 295w,
-/static/22aba87fe8f29844b682ca2035441e32/dce3f/serif-and-sans-serif-2.png 348w&quot;
+        src=&quot;/static/22aba87fe8f29844b682ca2035441e32/1d67c/serif-and-sans-serif-2.png&quot;
+        srcset=&quot;/static/22aba87fe8f29844b682ca2035441e32/72457/serif-and-sans-serif-2.png 200w,
+/static/22aba87fe8f29844b682ca2035441e32/1d67c/serif-and-sans-serif-2.png 348w&quot;
         sizes=&quot;(max-width: 348px) 100vw, 348px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Serif 的字体容易辨认，因此易读性较高。反之 Sans Serif 则较醒目，但在行文阅读的情況下，Sans-Serif 容易造成字母辨认的困扰，常会有来回重读及上下行错乱的情形。&lt;/p&gt;
 &lt;p&gt;Serif 强调了字母笔画的开始及结束，因此较易前后连续性的辨识。
 Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个别字母。&lt;/p&gt;
@@ -143,263 +127,223 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;p&gt;Sans-Serif 字体清晰可辨，一般操作系统默认字体也是 Sans-Serif，相比 Serif 选择较多。&lt;/p&gt;
 &lt;h3 id=&quot;macos&quot;&gt;&lt;a href=&quot;#macos&quot; aria-label=&quot;macos permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;macOS&lt;/h3&gt;
 &lt;h4 id=&quot;pingfang-苹方&quot;&gt;&lt;a href=&quot;#pingfang-%E8%8B%B9%E6%96%B9&quot; aria-label=&quot;pingfang 苹方 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;PingFang 苹方&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/7b8c6/pingfang.jpg&quot;
+    href=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/34964/pingfang.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 13.432835820895523%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAADABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB1pwkB//EABcQAQEBAQAAAAAAAAAAAAAAAAEAAgP/2gAIAQEAAQUCbV0Bf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQADAQAAAAAAAAAAAAAAAAABcYGC/9oACAEBAAY/Ascop//EABoQAAICAwAAAAAAAAAAAAAAAAABESFBgcH/2gAIAQEAAT8h6CU9Sclif//aAAwDAQACAAMAAAAQ88//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAYEAEBAQEBAAAAAAAAAAAAAAABEQBx0f/aAAgBAQABPxAEOWCc8LmGyCcm/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+      style=&quot;padding-bottom: 13.432835820895523%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAADABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB1pwkB//EABcQAQEBAQAAAAAAAAAAAAAAAAEAAgP/2gAIAQEAAQUCbV0Bf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQADAQAAAAAAAAAAAAAAAAABcYGC/9oACAEBAAY/Ascop//EABoQAAICAwAAAAAAAAAAAAAAAAABEYEhMUH/2gAIAQEAAT8h0sJh1JyXJ//aAAwDAQACAAMAAAAQ88//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhQXHR/9oACAEBAAE/EEUY1CJzwo4bNJXIf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;pingfang&quot;
         title=&quot;&quot;
-        src=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/44e84/pingfang.jpg&quot;
-        srcset=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/68355/pingfang.jpg 148w,
-/static/2408d59b0fa8b12eb24227b9986c4c18/ada22/pingfang.jpg 295w,
-/static/2408d59b0fa8b12eb24227b9986c4c18/44e84/pingfang.jpg 590w,
-/static/2408d59b0fa8b12eb24227b9986c4c18/7b8c6/pingfang.jpg 871w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/d7590/pingfang.jpg&quot;
+        srcset=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/4fed7/pingfang.jpg 200w,
+/static/2408d59b0fa8b12eb24227b9986c4c18/fe110/pingfang.jpg 400w,
+/static/2408d59b0fa8b12eb24227b9986c4c18/d7590/pingfang.jpg 800w,
+/static/2408d59b0fa8b12eb24227b9986c4c18/34964/pingfang.jpg 871w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;PingFang 是 mac 系统自 OS X EL Capitan(10.11)自带的字体，字体清晰锐利。&lt;/p&gt;
 &lt;h4 id=&quot;hiragino-sans-gb-冬青黑体&quot;&gt;&lt;a href=&quot;#hiragino-sans-gb-%E5%86%AC%E9%9D%92%E9%BB%91%E4%BD%93&quot; aria-label=&quot;hiragino sans gb 冬青黑体 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hiragino Sans GB 冬青黑体&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/bc7d5/hiragino.png&quot;
+    href=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/63231/hiragino.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 697px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 14.634146341463417%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsSAAALEgHS3X78AAAAqUlEQVQI1zWPKwuGYAyF/f/NbDSatCiCYBMMvmgwaBAvmCyKIF6fjw2+weGM8eyMWe/78tf3fVzXxXme2ks9z8NxHOr7vrNtG+u66kxY2RO/71t5K01TiqKgrmviOCaKIlzXJcsyBbquw3EckiTBtm2CICAMQzzPI89zfN9HMqSXcKttW/q+18VxHFmWhaqqkLlcFpVlqYwxRhlR0zTM88w0TQzDoC5f/QCfoNjxmr4VwwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hiragino&quot;
         title=&quot;&quot;
-        src=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/623ee/hiragino.png&quot;
-        srcset=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/816c5/hiragino.png 148w,
-/static/6df96161bf8c5bf5e32475b2c378bf28/c766b/hiragino.png 295w,
-/static/6df96161bf8c5bf5e32475b2c378bf28/623ee/hiragino.png 590w,
-/static/6df96161bf8c5bf5e32475b2c378bf28/bc7d5/hiragino.png 697w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/63231/hiragino.png&quot;
+        srcset=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/9f36e/hiragino.png 200w,
+/static/6df96161bf8c5bf5e32475b2c378bf28/4be8a/hiragino.png 400w,
+/static/6df96161bf8c5bf5e32475b2c378bf28/63231/hiragino.png 697w&quot;
+        sizes=&quot;(max-width: 697px) 100vw, 697px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;苹方虽好，但是在较新的 mac 系统(10.11)才自带，冬青黑体是 Mac OS X Snow Leopard(10.6) 自带字体，加上这款字体可以兼容更多的 mac 系统。&lt;/p&gt;
 &lt;h3 id=&quot;windows&quot;&gt;&lt;a href=&quot;#windows&quot; aria-label=&quot;windows permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Windows&lt;/h3&gt;
 &lt;h4 id=&quot;microsoft-yahei-微软雅黑&quot;&gt;&lt;a href=&quot;#microsoft-yahei-%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot; aria-label=&quot;microsoft yahei 微软雅黑 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Microsoft YaHei 微软雅黑&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/36da7/msyh.jpg&quot;
+    href=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/c95ce/msyh.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 55.55555555555556%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2KoAf//EABgQAAIDAAAAAAAAAAAAAAAAAAABERIg/9oACAEBAAEFArMnP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABIDEy/9oACAEBAAY/AssqP//EABgQAQADAQAAAAAAAAAAAAAAAAEAICEx/9oACAEBAAE/IcJieo2v/9oADAMBAAIAAwAAABDzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAERIQAgQVHh/9oACAEBAAE/EEkzRNVdx7hjToJ5O9f/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+      style=&quot;padding-bottom: 55.55555555555556%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2KoAf//EABgQAAIDAAAAAAAAAAAAAAAAAAABERIg/9oACAEBAAEFArMnP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABIDEy/9oACAEBAAY/AssqP//EABgQAQADAQAAAAAAAAAAAAAAAAEAICEx/9oACAEBAAE/IcJCeo2v/9oADAMBAAIAAwAAABDzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAERIQAgQVHh/9oACAEBAAE/EE0zxNVdx7hjToJ5O9f/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Microsoft YaHei&quot;
         title=&quot;&quot;
-        src=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/44e84/msyh.jpg&quot;
-        srcset=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/68355/msyh.jpg 148w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/ada22/msyh.jpg 295w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/44e84/msyh.jpg 590w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/274de/msyh.jpg 885w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/36da7/msyh.jpg 900w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/d7590/msyh.jpg&quot;
+        srcset=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/4fed7/msyh.jpg 200w,
+/static/8fcf389ff57b744bcf7cca0c17affa6d/fe110/msyh.jpg 400w,
+/static/8fcf389ff57b744bcf7cca0c17affa6d/d7590/msyh.jpg 800w,
+/static/8fcf389ff57b744bcf7cca0c17affa6d/c95ce/msyh.jpg 900w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;微软雅黑是从 Windows Vista 一起发布的字体，字形饱满，字间留白很少，在小字号下也能清晰可辨。&lt;/p&gt;
 &lt;h3 id=&quot;linux&quot;&gt;&lt;a href=&quot;#linux&quot; aria-label=&quot;linux permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Linux&lt;/h3&gt;
 &lt;h4 id=&quot;wenquanyi-micro-hei&quot;&gt;&lt;a href=&quot;#wenquanyi-micro-hei&quot; aria-label=&quot;wenquanyi micro hei permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;WenQuanYi Micro Hei&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/beccebc23dbec373bd614254d40cd11a/ef4d4/wenquanyi-microhei.png&quot;
+    href=&quot;/static/beccebc23dbec373bd614254d40cd11a/fa317/wenquanyi-microhei.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 600px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 60%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAAB30lEQVQoz21SaXOiQBDl//+TmE+JG9cokAjCcMhwSCyvBeRcRAVBU37ch6S2ao8uaqqZ6X6vX3cz5/P5cDicTqeqquBXd+tujsfjviiKfWvdTXdeLpfmbkzg+9/6/f7zs6IojuOMR6OpKD72et8HAyLL/acn+L2Hh9fhEK+DlxfTNG+3W13XbTJ4fmZZFEVxHCdJgrPYF3EUp2kKkjzP2/s43uc5aFEHyrlerx05g2eVEGNm2LadxMlyuSQyASc1qKZqqqK489aM2Wyz2diWNXec9XotCiI0MrvdDiWJgoBPmk41VUXZi4+PxWIhS5KmKMCaTCaGYQDo/e2dY1lCiK7rKJlBVTzPI8LzPGSalM6dlgqhQRCgEW88r2saoLkxCwjgAgI0EMVA7Wj4CjDw8Cw303VBEFarVRiGlFIwsOMx0jiWk6aSIhMEoGdQVJYlg25JkoQrMFuWfdepbrdb9ANqwUkk2bFtahi+7/8e0teoUDrG2I4zz7Msq8oS/UTbszQFNn6bukFvkFSf6+ZPY5BgUtMyIZbC8X548NBMqIVy13UhYRcEAGr+MQbaMAaEQR7iMAz9rgor4c5dzA+gKOT6+fmfZGxftyGBHyAoCkOckIcTe4In9Bzr8Zfazn4B2H9n2RUN7AcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;WenQuanYi Micro Hei&quot;
         title=&quot;&quot;
-        src=&quot;/static/beccebc23dbec373bd614254d40cd11a/623ee/wenquanyi-microhei.png&quot;
-        srcset=&quot;/static/beccebc23dbec373bd614254d40cd11a/816c5/wenquanyi-microhei.png 148w,
-/static/beccebc23dbec373bd614254d40cd11a/c766b/wenquanyi-microhei.png 295w,
-/static/beccebc23dbec373bd614254d40cd11a/623ee/wenquanyi-microhei.png 590w,
-/static/beccebc23dbec373bd614254d40cd11a/ef4d4/wenquanyi-microhei.png 600w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/beccebc23dbec373bd614254d40cd11a/fa317/wenquanyi-microhei.png&quot;
+        srcset=&quot;/static/beccebc23dbec373bd614254d40cd11a/bb23d/wenquanyi-microhei.png 200w,
+/static/beccebc23dbec373bd614254d40cd11a/9f08c/wenquanyi-microhei.png 400w,
+/static/beccebc23dbec373bd614254d40cd11a/fa317/wenquanyi-microhei.png 600w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;文泉驿微米黑是 Linux 上较为常见的高质量中文非衬线字体。&lt;/p&gt;
 &lt;h2 id=&quot;serif-衬线字体&quot;&gt;&lt;a href=&quot;#serif-%E8%A1%AC%E7%BA%BF%E5%AD%97%E4%BD%93&quot; aria-label=&quot;serif 衬线字体 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Serif 衬线字体&lt;/h2&gt;
 &lt;p&gt;各操作系统下优美的 Serif 字体选择较少，选择典型字体讲解。&lt;/p&gt;
 &lt;h3 id=&quot;macos-1&quot;&gt;&lt;a href=&quot;#macos-1&quot; aria-label=&quot;macos 1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;macOS&lt;/h3&gt;
 &lt;h4 id=&quot;songti--stsong&quot;&gt;&lt;a href=&quot;#songti--stsong&quot; aria-label=&quot;songti  stsong permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Songti &amp;#x26; STSong&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b315dc2d48f056973635503ea8691ee2/82710/songti-sc%26stsong.png&quot;
+    href=&quot;/static/b315dc2d48f056973635503ea8691ee2/b1fd4/songti-sc%26stsong.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 592px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 43.58108108108108%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAAA70lEQVQoz6WS70vCUBSGj8pKKsrhmok1NpdKtsR+IEELQiv6ml/8//+T3hPPYB/EIAcP2z3nnnvue96ZmWUiF9eiL1IxtD2eS9ERPXEmTkUsmjTxeINm5+KY94m4Yq/XjVnbI4GNeBJT8VqLPYgDMRc3KHij+FOUNH4nbwld7sHl3opIFIzEnwua+N4X6lIU+OF3YrJrFI0/1ttygdGlIquZEvzXFJcWIilEwkC0MCziBm7WkWgj/RD5MTMesPd3bu7cGoMSzPEDvsnXTXEVK1QsybvDH8zRZgRKvhe42KWgQEnOr+O3/mJd1Y6oef4BCh8Rq1blV90AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;songti sc stsong&quot;
         title=&quot;&quot;
-        src=&quot;/static/b315dc2d48f056973635503ea8691ee2/623ee/songti-sc%26stsong.png&quot;
-        srcset=&quot;/static/b315dc2d48f056973635503ea8691ee2/816c5/songti-sc%26stsong.png 148w,
-/static/b315dc2d48f056973635503ea8691ee2/c766b/songti-sc%26stsong.png 295w,
-/static/b315dc2d48f056973635503ea8691ee2/623ee/songti-sc%26stsong.png 590w,
-/static/b315dc2d48f056973635503ea8691ee2/82710/songti-sc%26stsong.png 592w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/b315dc2d48f056973635503ea8691ee2/b1fd4/songti-sc%26stsong.png&quot;
+        srcset=&quot;/static/b315dc2d48f056973635503ea8691ee2/34ec4/songti-sc%26stsong.png 200w,
+/static/b315dc2d48f056973635503ea8691ee2/580c2/songti-sc%26stsong.png 400w,
+/static/b315dc2d48f056973635503ea8691ee2/b1fd4/songti-sc%26stsong.png 592w&quot;
+        sizes=&quot;(max-width: 592px) 100vw, 592px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mac 上的 Songti SC/TC 和 STSong 两款都是常州华文公司制作的「华文宋体」。2 款字体字型十分相近，但是 Songti SC 字重较大。&lt;/p&gt;
 &lt;h3 id=&quot;windows-1&quot;&gt;&lt;a href=&quot;#windows-1&quot; aria-label=&quot;windows 1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Windows&lt;/h3&gt;
 &lt;h4 id=&quot;simsun&quot;&gt;&lt;a href=&quot;#simsun&quot; aria-label=&quot;simsun permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;SimSun&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a600992ce4369fa5b3691647c5769bbc/a61c1/simsun.png&quot;
+    href=&quot;/static/a600992ce4369fa5b3691647c5769bbc/a9603/simsun.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 404px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 404px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 52.722772277227726%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAABk0lEQVQoz3WSV4vCUBCF8/+fxFefBRVUfFEsxIIag8aWKNgbdiTWYM3ut97F3RX2Qi4zc6eccyaSbdsfz/My/jv2ryMiEt94PF4ul8KfTqeLxWIwGMxmM9zH49HpdDabzf1+x+12u/v9vt/vi14Sb6lUKpPJVCoVQul0WlXVRCKh6/put+NWFKVer5fL5ePxGAqFSHM4HMPh8Hq9SrFYTNO0XC7HA8WlUsntdhcKBZIOhwNAnE4n3SeTCXYkEqEXxQKptFqt8vk80zBAQo3X6/X7/aIX+F0uVzwebzabuOFwGAiBQCAYDH5NJtRqtaAtaKzX63a7DRCg8syERqMxn8+puVwu3NvtFmrfnPlutxs1yHA6nXq9HrcQD9jER6PR2y5Q8UdtHECiHL0ZaJpmrVbDzWazyWSSeiYjPuh4RcVXL0n0IAMmlBWLRcp8Pp/H4wFwtVqFnvo8sixDB+R/ihkIT5jDkCSWyQqi0SjZ7JxdoCI2uhqGgfs+mXrLsjDO5zP/AyqgFnTYLXkEcUVc/C3ifAIXAEozAtE13AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;simsun&quot;
         title=&quot;&quot;
-        src=&quot;/static/a600992ce4369fa5b3691647c5769bbc/a61c1/simsun.png&quot;
-        srcset=&quot;/static/a600992ce4369fa5b3691647c5769bbc/547d8/simsun.png 148w,
-/static/a600992ce4369fa5b3691647c5769bbc/d58e5/simsun.png 295w,
-/static/a600992ce4369fa5b3691647c5769bbc/a61c1/simsun.png 404w&quot;
+        src=&quot;/static/a600992ce4369fa5b3691647c5769bbc/a9603/simsun.png&quot;
+        srcset=&quot;/static/a600992ce4369fa5b3691647c5769bbc/8e279/simsun.png 200w,
+/static/a600992ce4369fa5b3691647c5769bbc/0f976/simsun.png 400w,
+/static/a600992ce4369fa5b3691647c5769bbc/a9603/simsun.png 404w&quot;
         sizes=&quot;(max-width: 404px) 100vw, 404px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;linux-1&quot;&gt;&lt;a href=&quot;#linux-1&quot; aria-label=&quot;linux 1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Linux&lt;/h3&gt;
 &lt;h4 id=&quot;ar-pl-sungti-文鼎简报宋&quot;&gt;&lt;a href=&quot;#ar-pl-sungti-%E6%96%87%E9%BC%8E%E7%AE%80%E6%8A%A5%E5%AE%8B&quot; aria-label=&quot;ar pl sungti 文鼎简报宋 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AR PL Sungti 文鼎简报宋&lt;/h4&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a019cb4e342762e13dea8444f282ccba/f9221/ar-pl-sungti.png&quot;
+    href=&quot;/static/a019cb4e342762e13dea8444f282ccba/89130/ar-pl-sungti.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
+    &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 5.263157894736842%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAIAAABR8BlyAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAARElEQVQI1wXBQQ6AIAwEQP//LzmAIWK6yI3S0n7B9ObMwXO6+5lSuYrZ7sDi2Z5W6x3xUe8l5yUCYG8b71BVXgKiiPgBFO4zhjIFGwwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    &gt;&lt;/span&gt;
+    &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;AR PL Sungti&quot;
         title=&quot;&quot;
-        src=&quot;/static/a019cb4e342762e13dea8444f282ccba/623ee/ar-pl-sungti.png&quot;
-        srcset=&quot;/static/a019cb4e342762e13dea8444f282ccba/816c5/ar-pl-sungti.png 148w,
-/static/a019cb4e342762e13dea8444f282ccba/c766b/ar-pl-sungti.png 295w,
-/static/a019cb4e342762e13dea8444f282ccba/623ee/ar-pl-sungti.png 590w,
-/static/a019cb4e342762e13dea8444f282ccba/e5345/ar-pl-sungti.png 885w,
-/static/a019cb4e342762e13dea8444f282ccba/f9221/ar-pl-sungti.png 912w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/a019cb4e342762e13dea8444f282ccba/241ce/ar-pl-sungti.png&quot;
+        srcset=&quot;/static/a019cb4e342762e13dea8444f282ccba/501c8/ar-pl-sungti.png 200w,
+/static/a019cb4e342762e13dea8444f282ccba/0a06f/ar-pl-sungti.png 400w,
+/static/a019cb4e342762e13dea8444f282ccba/241ce/ar-pl-sungti.png 800w,
+/static/a019cb4e342762e13dea8444f282ccba/89130/ar-pl-sungti.png 912w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
-    &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;AR PL Sungti 文鼎简报宋是 Linux 上为数不多的高质量衬线字体。&lt;/p&gt;
 &lt;h2 id=&quot;end&quot;&gt;&lt;a href=&quot;#end&quot; aria-label=&quot;end permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;End&lt;/h2&gt;
 &lt;p&gt;以上就是 Web 开发中系统自带的一些高质量的字体选择，如果你有更好的字体推荐，欢迎下方留言。:)&lt;/p&gt;
