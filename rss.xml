@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devrsi0n]]></title><description><![CDATA[软件手艺人]]></description><link>https://devrsi0n.me</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Mar 2019 13:57:22 GMT</lastBuildDate><item><title><![CDATA[Web 开发中文字体指南]]></title><description><![CDATA[头图来自 思源宋体 作为一名前端工程师，经常在还原设计师视觉稿时忽略字体，其实选择一套精心设计过的字体能极大地提升产品的视觉感受。今天就从这个很容易被忽略的细节入手，Web 开发需要了解的字体相关知识都梳理一遍。然而不像拉丁语系翻来覆去就那么一点西文字符，常见的字体就 10…]]></description><link>https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</link><guid isPermaLink="false">https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devrsi0n]]></title><description><![CDATA[软件手艺人]]></description><link>https://devrsi0n.me</link><generator>RSS for Node</generator><lastBuildDate>Sun, 07 Apr 2019 10:44:11 GMT</lastBuildDate><item><title><![CDATA[Web 开发中文字体指南]]></title><description><![CDATA[头图来自 思源宋体 作为一名前端工程师，经常在还原设计师视觉稿时忽略字体，其实选择一套精心设计过的字体能极大地提升产品的视觉感受。今天就从这个很容易被忽略的细节入手，Web 开发需要了解的字体相关知识都梳理一遍。然而不像拉丁语系翻来覆去就那么一点西文字符，常见的字体就 10…]]></description><link>https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</link><guid isPermaLink="false">https://devrsi0n.me/posts/2019/01/a-guide-to-chinese-font-for-web-developer/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/a9fb0/font.png&quot;
+    href=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/3e10c/font.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -18,13 +18,13 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;font&quot;
         title=&quot;&quot;
-        src=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/241ce/font.png&quot;
-        srcset=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/501c8/font.png 200w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/0a06f/font.png 400w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/241ce/font.png 800w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/39658/font.png 1200w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/d2fcd/font.png 1600w,
-/static/df136bd8e8275104fcdc7ab648eb40b5/a9fb0/font.png 1716w&quot;
+        src=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/8ff1e/font.png&quot;
+        srcset=&quot;/static/df136bd8e8275104fcdc7ab648eb40b5/9ec3c/font.png 200w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/c7805/font.png 400w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/8ff1e/font.png 800w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/6ff5e/font.png 1200w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/2f950/font.png 1600w,
+/static/df136bd8e8275104fcdc7ab648eb40b5/3e10c/font.png 1716w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
   &lt;/span&gt;
@@ -37,8 +37,8 @@
 &lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;，一般把西文字体放在中文字体之前，因为中文字体自带了西文，但是效果一般不太好。&lt;/p&gt;
 &lt;p&gt;比如下面这段 CSS 代码就是 GitHub 的字体样式。&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre style=&quot;counter-reset: linenumber NaN&quot; class=&quot;language-css line-numbers&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif,
-    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; -apple-system&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; BlinkMacSystemFont&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; Segoe UI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; Helvetica&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; Arial&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sans-serif&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    Apple Color Emoji&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; Segoe UI Emoji&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; Segoe UI Symbol&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;字体一般分为衬线字体（Serif）和无衬线字体（Sans-Serif），它们有什么区别？&lt;/p&gt;
 &lt;h2 id=&quot;serif-vs-sans-serif&quot;&gt;&lt;a href=&quot;#serif-vs-sans-serif&quot; aria-label=&quot;serif vs sans serif permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Serif VS Sans-Serif&lt;/h2&gt;
@@ -46,7 +46,7 @@
 &lt;h3 id=&quot;西文&quot;&gt;&lt;a href=&quot;#%E8%A5%BF%E6%96%87&quot; aria-label=&quot;西文 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;西文&lt;/h3&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/d6b00/serif-and-sans-serif.png&quot;
+    href=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/e5f70/serif-and-sans-serif.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -64,10 +64,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;serif and sans serif&quot;
         title=&quot;&quot;
-        src=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/d6b00/serif-and-sans-serif.png&quot;
-        srcset=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/439d4/serif-and-sans-serif.png 200w,
-/static/2d659bdb967fcfff796a9c4fd9c608d4/96805/serif-and-sans-serif.png 400w,
-/static/2d659bdb967fcfff796a9c4fd9c608d4/d6b00/serif-and-sans-serif.png 513w&quot;
+        src=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/e5f70/serif-and-sans-serif.png&quot;
+        srcset=&quot;/static/2d659bdb967fcfff796a9c4fd9c608d4/9ec3c/serif-and-sans-serif.png 200w,
+/static/2d659bdb967fcfff796a9c4fd9c608d4/c7805/serif-and-sans-serif.png 400w,
+/static/2d659bdb967fcfff796a9c4fd9c608d4/e5f70/serif-and-sans-serif.png 513w&quot;
         sizes=&quot;(max-width: 513px) 100vw, 513px&quot;
       /&gt;
   &lt;/span&gt;
@@ -75,7 +75,7 @@
 &lt;h2 id=&quot;中文&quot;&gt;&lt;a href=&quot;#%E4%B8%AD%E6%96%87&quot; aria-label=&quot;中文 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;中文&lt;/h2&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/22aba87fe8f29844b682ca2035441e32/1d67c/serif-and-sans-serif-2.png&quot;
+    href=&quot;/static/22aba87fe8f29844b682ca2035441e32/8f6cc/serif-and-sans-serif-2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -93,9 +93,9 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;serif and sans serif 2&quot;
         title=&quot;&quot;
-        src=&quot;/static/22aba87fe8f29844b682ca2035441e32/1d67c/serif-and-sans-serif-2.png&quot;
-        srcset=&quot;/static/22aba87fe8f29844b682ca2035441e32/72457/serif-and-sans-serif-2.png 200w,
-/static/22aba87fe8f29844b682ca2035441e32/1d67c/serif-and-sans-serif-2.png 348w&quot;
+        src=&quot;/static/22aba87fe8f29844b682ca2035441e32/8f6cc/serif-and-sans-serif-2.png&quot;
+        srcset=&quot;/static/22aba87fe8f29844b682ca2035441e32/9ec3c/serif-and-sans-serif-2.png 200w,
+/static/22aba87fe8f29844b682ca2035441e32/8f6cc/serif-and-sans-serif-2.png 348w&quot;
         sizes=&quot;(max-width: 348px) 100vw, 348px&quot;
       /&gt;
   &lt;/span&gt;
@@ -129,7 +129,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;pingfang-苹方&quot;&gt;&lt;a href=&quot;#pingfang-%E8%8B%B9%E6%96%B9&quot; aria-label=&quot;pingfang 苹方 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;PingFang 苹方&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/34964/pingfang.jpg&quot;
+    href=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/4304a/pingfang.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -147,11 +147,11 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;pingfang&quot;
         title=&quot;&quot;
-        src=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/d7590/pingfang.jpg&quot;
-        srcset=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/4fed7/pingfang.jpg 200w,
-/static/2408d59b0fa8b12eb24227b9986c4c18/fe110/pingfang.jpg 400w,
-/static/2408d59b0fa8b12eb24227b9986c4c18/d7590/pingfang.jpg 800w,
-/static/2408d59b0fa8b12eb24227b9986c4c18/34964/pingfang.jpg 871w&quot;
+        src=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/a296c/pingfang.jpg&quot;
+        srcset=&quot;/static/2408d59b0fa8b12eb24227b9986c4c18/f544b/pingfang.jpg 200w,
+/static/2408d59b0fa8b12eb24227b9986c4c18/41689/pingfang.jpg 400w,
+/static/2408d59b0fa8b12eb24227b9986c4c18/a296c/pingfang.jpg 800w,
+/static/2408d59b0fa8b12eb24227b9986c4c18/4304a/pingfang.jpg 871w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
   &lt;/span&gt;
@@ -160,7 +160,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;hiragino-sans-gb-冬青黑体&quot;&gt;&lt;a href=&quot;#hiragino-sans-gb-%E5%86%AC%E9%9D%92%E9%BB%91%E4%BD%93&quot; aria-label=&quot;hiragino sans gb 冬青黑体 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hiragino Sans GB 冬青黑体&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/63231/hiragino.png&quot;
+    href=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/2f287/hiragino.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -178,10 +178,10 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;hiragino&quot;
         title=&quot;&quot;
-        src=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/63231/hiragino.png&quot;
-        srcset=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/9f36e/hiragino.png 200w,
-/static/6df96161bf8c5bf5e32475b2c378bf28/4be8a/hiragino.png 400w,
-/static/6df96161bf8c5bf5e32475b2c378bf28/63231/hiragino.png 697w&quot;
+        src=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/2f287/hiragino.png&quot;
+        srcset=&quot;/static/6df96161bf8c5bf5e32475b2c378bf28/9ec3c/hiragino.png 200w,
+/static/6df96161bf8c5bf5e32475b2c378bf28/c7805/hiragino.png 400w,
+/static/6df96161bf8c5bf5e32475b2c378bf28/2f287/hiragino.png 697w&quot;
         sizes=&quot;(max-width: 697px) 100vw, 697px&quot;
       /&gt;
   &lt;/span&gt;
@@ -191,7 +191,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;microsoft-yahei-微软雅黑&quot;&gt;&lt;a href=&quot;#microsoft-yahei-%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot; aria-label=&quot;microsoft yahei 微软雅黑 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Microsoft YaHei 微软雅黑&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/c95ce/msyh.jpg&quot;
+    href=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/2d017/msyh.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -209,11 +209,11 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Microsoft YaHei&quot;
         title=&quot;&quot;
-        src=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/d7590/msyh.jpg&quot;
-        srcset=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/4fed7/msyh.jpg 200w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/fe110/msyh.jpg 400w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/d7590/msyh.jpg 800w,
-/static/8fcf389ff57b744bcf7cca0c17affa6d/c95ce/msyh.jpg 900w&quot;
+        src=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/a296c/msyh.jpg&quot;
+        srcset=&quot;/static/8fcf389ff57b744bcf7cca0c17affa6d/f544b/msyh.jpg 200w,
+/static/8fcf389ff57b744bcf7cca0c17affa6d/41689/msyh.jpg 400w,
+/static/8fcf389ff57b744bcf7cca0c17affa6d/a296c/msyh.jpg 800w,
+/static/8fcf389ff57b744bcf7cca0c17affa6d/2d017/msyh.jpg 900w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
   &lt;/span&gt;
@@ -223,7 +223,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;wenquanyi-micro-hei&quot;&gt;&lt;a href=&quot;#wenquanyi-micro-hei&quot; aria-label=&quot;wenquanyi micro hei permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;WenQuanYi Micro Hei&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/beccebc23dbec373bd614254d40cd11a/fa317/wenquanyi-microhei.png&quot;
+    href=&quot;/static/beccebc23dbec373bd614254d40cd11a/34e8a/wenquanyi-microhei.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -241,10 +241,10 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;WenQuanYi Micro Hei&quot;
         title=&quot;&quot;
-        src=&quot;/static/beccebc23dbec373bd614254d40cd11a/fa317/wenquanyi-microhei.png&quot;
-        srcset=&quot;/static/beccebc23dbec373bd614254d40cd11a/bb23d/wenquanyi-microhei.png 200w,
-/static/beccebc23dbec373bd614254d40cd11a/9f08c/wenquanyi-microhei.png 400w,
-/static/beccebc23dbec373bd614254d40cd11a/fa317/wenquanyi-microhei.png 600w&quot;
+        src=&quot;/static/beccebc23dbec373bd614254d40cd11a/34e8a/wenquanyi-microhei.png&quot;
+        srcset=&quot;/static/beccebc23dbec373bd614254d40cd11a/9ec3c/wenquanyi-microhei.png 200w,
+/static/beccebc23dbec373bd614254d40cd11a/c7805/wenquanyi-microhei.png 400w,
+/static/beccebc23dbec373bd614254d40cd11a/34e8a/wenquanyi-microhei.png 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
   &lt;/span&gt;
@@ -256,7 +256,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;songti--stsong&quot;&gt;&lt;a href=&quot;#songti--stsong&quot; aria-label=&quot;songti  stsong permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Songti &amp;#x26; STSong&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b315dc2d48f056973635503ea8691ee2/b1fd4/songti-sc%26stsong.png&quot;
+    href=&quot;/static/b315dc2d48f056973635503ea8691ee2/3194a/songti-sc%26stsong.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -274,10 +274,10 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;songti sc stsong&quot;
         title=&quot;&quot;
-        src=&quot;/static/b315dc2d48f056973635503ea8691ee2/b1fd4/songti-sc%26stsong.png&quot;
-        srcset=&quot;/static/b315dc2d48f056973635503ea8691ee2/34ec4/songti-sc%26stsong.png 200w,
-/static/b315dc2d48f056973635503ea8691ee2/580c2/songti-sc%26stsong.png 400w,
-/static/b315dc2d48f056973635503ea8691ee2/b1fd4/songti-sc%26stsong.png 592w&quot;
+        src=&quot;/static/b315dc2d48f056973635503ea8691ee2/3194a/songti-sc%26stsong.png&quot;
+        srcset=&quot;/static/b315dc2d48f056973635503ea8691ee2/9ec3c/songti-sc%26stsong.png 200w,
+/static/b315dc2d48f056973635503ea8691ee2/c7805/songti-sc%26stsong.png 400w,
+/static/b315dc2d48f056973635503ea8691ee2/3194a/songti-sc%26stsong.png 592w&quot;
         sizes=&quot;(max-width: 592px) 100vw, 592px&quot;
       /&gt;
   &lt;/span&gt;
@@ -287,7 +287,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;simsun&quot;&gt;&lt;a href=&quot;#simsun&quot; aria-label=&quot;simsun permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;SimSun&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a600992ce4369fa5b3691647c5769bbc/a9603/simsun.png&quot;
+    href=&quot;/static/a600992ce4369fa5b3691647c5769bbc/6cdf8/simsun.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -305,10 +305,10 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;simsun&quot;
         title=&quot;&quot;
-        src=&quot;/static/a600992ce4369fa5b3691647c5769bbc/a9603/simsun.png&quot;
-        srcset=&quot;/static/a600992ce4369fa5b3691647c5769bbc/8e279/simsun.png 200w,
-/static/a600992ce4369fa5b3691647c5769bbc/0f976/simsun.png 400w,
-/static/a600992ce4369fa5b3691647c5769bbc/a9603/simsun.png 404w&quot;
+        src=&quot;/static/a600992ce4369fa5b3691647c5769bbc/6cdf8/simsun.png&quot;
+        srcset=&quot;/static/a600992ce4369fa5b3691647c5769bbc/9ec3c/simsun.png 200w,
+/static/a600992ce4369fa5b3691647c5769bbc/c7805/simsun.png 400w,
+/static/a600992ce4369fa5b3691647c5769bbc/6cdf8/simsun.png 404w&quot;
         sizes=&quot;(max-width: 404px) 100vw, 404px&quot;
       /&gt;
   &lt;/span&gt;
@@ -317,7 +317,7 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
 &lt;h4 id=&quot;ar-pl-sungti-文鼎简报宋&quot;&gt;&lt;a href=&quot;#ar-pl-sungti-%E6%96%87%E9%BC%8E%E7%AE%80%E6%8A%A5%E5%AE%8B&quot; aria-label=&quot;ar pl sungti 文鼎简报宋 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AR PL Sungti 文鼎简报宋&lt;/h4&gt;
 &lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a019cb4e342762e13dea8444f282ccba/89130/ar-pl-sungti.png&quot;
+    href=&quot;/static/a019cb4e342762e13dea8444f282ccba/c07e5/ar-pl-sungti.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -335,11 +335,11 @@ Serif 强调一个 word，而非单一的字母，反之 Sans-Serif 则强调个
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
         alt=&quot;AR PL Sungti&quot;
         title=&quot;&quot;
-        src=&quot;/static/a019cb4e342762e13dea8444f282ccba/241ce/ar-pl-sungti.png&quot;
-        srcset=&quot;/static/a019cb4e342762e13dea8444f282ccba/501c8/ar-pl-sungti.png 200w,
-/static/a019cb4e342762e13dea8444f282ccba/0a06f/ar-pl-sungti.png 400w,
-/static/a019cb4e342762e13dea8444f282ccba/241ce/ar-pl-sungti.png 800w,
-/static/a019cb4e342762e13dea8444f282ccba/89130/ar-pl-sungti.png 912w&quot;
+        src=&quot;/static/a019cb4e342762e13dea8444f282ccba/8ff1e/ar-pl-sungti.png&quot;
+        srcset=&quot;/static/a019cb4e342762e13dea8444f282ccba/9ec3c/ar-pl-sungti.png 200w,
+/static/a019cb4e342762e13dea8444f282ccba/c7805/ar-pl-sungti.png 400w,
+/static/a019cb4e342762e13dea8444f282ccba/8ff1e/ar-pl-sungti.png 800w,
+/static/a019cb4e342762e13dea8444f282ccba/c07e5/ar-pl-sungti.png 912w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
   &lt;/span&gt;
