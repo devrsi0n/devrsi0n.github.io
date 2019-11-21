@@ -27,20 +27,20 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-db752b57be954cec6898.js"
+    "url": "webpack-runtime-e5557bb905721d2ea8f1.js"
   },
   {
-    "url": "commons-fd16fe1c673a1a44afc7.js"
+    "url": "commons-cd30c21ffe317d212df6.js"
   },
   {
-    "url": "app-4657bd599d343dfda1ef.js"
+    "url": "app-e45d234e1b3b05f0beec.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-c9ec5fa89752561cb21e.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "32e7e2a8fdadf0e22ce4efc13f4d0c01"
+    "revision": "19b4beb679ea7b3842befbef226c39c7"
   },
   {
     "url": "manifest.webmanifest",
@@ -132,12 +132,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.19`), ``)
+  pathname = pathname.replace(new RegExp(`^https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.20`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.19/app-4657bd599d343dfda1ef.js`))) {
+  if (!resources || !(await caches.match(`https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.20/app-e45d234e1b3b05f0beec.js`))) {
     return await fetch(event.request)
   }
 
@@ -150,7 +150,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.19/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.20/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
