@@ -27,20 +27,20 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-c511c08246c487b1be03.js"
+    "url": "webpack-runtime-cd2267db61486d92906b.js"
   },
   {
-    "url": "commons-99187737f64ce379e9bc.js"
+    "url": "commons-e0aaa3fbe74f92b80bf8.js"
   },
   {
-    "url": "app-bd6dbfc5753beb24edbe.js"
+    "url": "app-e3abc1d5d3342fcd7b06.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-c9ec5fa89752561cb21e.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "de7b5268dab61e8845f9a2c267fa1ee4"
+    "revision": "8589d2c9d9819618b0def8cd8c3e3dbe"
   },
   {
     "url": "manifest.webmanifest",
@@ -132,12 +132,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.23`), ``)
+  pathname = pathname.replace(new RegExp(`^https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.2.0`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.23/app-bd6dbfc5753beb24edbe.js`))) {
+  if (!resources || !(await caches.match(`https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.2.0/app-e3abc1d5d3342fcd7b06.js`))) {
     return await fetch(event.request)
   }
 
@@ -150,7 +150,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.1.23/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.2.0/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
