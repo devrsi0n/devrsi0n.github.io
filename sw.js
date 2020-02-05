@@ -27,20 +27,20 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-c77da4ebecf11277afdc.js"
+    "url": "webpack-runtime-bdd7bc23b8a5a644948e.js"
   },
   {
-    "url": "commons-75005a25fed52b8cb1b3.js"
+    "url": "commons-5bf095790326a7e01cde.js"
   },
   {
-    "url": "app-194b3232ed020466094f.js"
+    "url": "app-ea3198bd688123737cd7.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-ceef87afc058962c4db9.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "79a7cd654072a9a243ecdd3b322f30cc"
+    "revision": "8d7ca7be2eef5e970803a6f60ca1dce9"
   },
   {
     "url": "manifest.webmanifest",
@@ -132,12 +132,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.2.9`), ``)
+  pathname = pathname.replace(new RegExp(`^https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.3.0`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.2.9/app-194b3232ed020466094f.js`))) {
+  if (!resources || !(await caches.match(`https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.3.0/app-ea3198bd688123737cd7.js`))) {
     return await fetch(event.request)
   }
 
@@ -150,7 +150,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.2.9/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `https://cdn.jsdelivr.net/gh/devrsi0n/devrsi0n.github.io@0.3.0/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
